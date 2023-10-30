@@ -24,13 +24,14 @@ It will automatically be redeployed whenever a PR is merged
 
 ## Tech Stack
 
-- HTML5
-- CSS
-- JavaScript
-- Flask
-- Jinja2
-- SQLite (Database)
-- OAuth
+- **HTML5**: Markup language for web content.
+- **CSS**: Stylesheet language for web page styling.
+- **JavaScript**: Programming language for interactive web elements.
+- **Flask**: Python web framework for building web applications.
+- **Jinja2**: Template engine for Flask.
+- **SQLite**: Lightweight relational database management system.
+- **OAuth**: Authentication and authorization framework for secure access.
+
 
 ## Run Howzat
 - Clone the repo. `git clone https://github.com/IEEE-VIT/Howzat.git` && cd Howzat
